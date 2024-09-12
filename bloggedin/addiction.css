@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+body{
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 30px;
+}
+.addiction h1{
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+.picture img{
+    margin-top: 30px;
+    align-items: center;
+    margin-left: 28%;
+    width: 40%;
+    height: 30vh;
+    border: 5px solid #000;
+}
+.addiction h3{
+    margin-left: 20px;
+}
+.addiction p{
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.addiction ol{
+    margin-left: 50px;
+    margin-right: 20px;
+    list-style-type: square;
+    color: #000000;
+}
